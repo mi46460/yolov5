@@ -1,0 +1,5 @@
+train: ./data/hat/train/images
+val: ./data/hat/valid/images
+
+nc: 3
+names: ['no_helmet', 'helmet', 'person']
